@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Generated certificates
+config/wazuh_indexer_ssl_certs/
+
+# Docker volumes (if ever created locally)
+volumes/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
