@@ -83,7 +83,7 @@ docker compose up -d
 #
 
 echo
-docker ps
+./scripts/status.sh
 
 echo
 success "Bootstrap completed."
